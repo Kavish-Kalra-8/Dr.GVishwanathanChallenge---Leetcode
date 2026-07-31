@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0013-roman-to-integer) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
