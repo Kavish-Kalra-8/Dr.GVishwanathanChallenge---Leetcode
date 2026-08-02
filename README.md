@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -27,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
