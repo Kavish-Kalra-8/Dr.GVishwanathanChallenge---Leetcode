@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0035-search-insert-position) |
 | [3731-find-missing-elements](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -52,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0016-3sum-closest) |
 | [3731-find-missing-elements](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
