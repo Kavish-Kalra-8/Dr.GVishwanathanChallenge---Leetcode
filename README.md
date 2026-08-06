@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0013-roman-to-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0016-3sum-closest) |
 | [3731-find-missing-elements](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/3731-find-missing-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
