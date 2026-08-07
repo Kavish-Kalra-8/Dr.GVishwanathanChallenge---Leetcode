@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kavish-Kalra-8/Dr.GVishwanathanChallenge---Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
